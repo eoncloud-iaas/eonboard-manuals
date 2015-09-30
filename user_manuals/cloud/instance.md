@@ -22,6 +22,8 @@
     ![创建云主机](http://img.hb.aicdn.com/c6de1db2effd3db4aa8e9cb2cb53feef5bccf6ebf0dd-esErUw_fw658)
     <center>创建云主机-个人设置</center>
 
+    选择完成后点击提交按钮。
+
 ## 云主机功能
 
 ### VNC登录
