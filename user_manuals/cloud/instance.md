@@ -18,7 +18,7 @@
     ![创建云主机](http://img.hb.aicdn.com/57c7edf1d8f852ef2c438dd51dc92214c5622171bfe8-2Bpn08)
     <center>创建云主机-选择配置</center>
 
-3. 基础信息
+3. 基础信息  
     ![创建云主机](http://img.hb.aicdn.com/c6de1db2effd3db4aa8e9cb2cb53feef5bccf6ebf0dd-esErUw_fw658)
     <center>创建云主机-个人设置</center>
 
