@@ -10,7 +10,6 @@
 1. 选择镜像
 ![创建云主机](http://img.hb.aicdn.com/4909b6ca3f823d8a94d8f46441919799e354f7e110cda-rQhKv5)
 <center>创建云主机</center>
-
     ![创建云主机](http://img.hb.aicdn.com/57c7edf1d8f852ef2c438dd51dc92214c5622171bfe8-2Bpn08)
 <center>创建云主机</center>
 
