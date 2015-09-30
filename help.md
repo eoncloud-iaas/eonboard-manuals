@@ -18,3 +18,7 @@
 ### 编写文档
 
     使用gitbook editor导入eonboard-manuals项目
+
+### 编译
+
+    gitbook build .
