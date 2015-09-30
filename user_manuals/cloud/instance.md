@@ -5,7 +5,6 @@
 ## 创建云主机
 
 
-
 1. 选择镜像
 ![创建云主机](http://img.hb.aicdn.com/4909b6ca3f823d8a94d8f46441919799e354f7e110cda-rQhKv5)
 <center>创建云主机</center>
