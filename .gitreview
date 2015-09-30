@@ -1,0 +1,5 @@
+[gerrit]
+host=review.eon-dev.com
+port=29418
+project=eonboard-manuals.git
+defaultbranch=master
