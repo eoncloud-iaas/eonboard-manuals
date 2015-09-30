@@ -15,11 +15,11 @@
 <center>创建云主机</center>
 
 2. 选择配置
-![创建云主机](http://img.hb.aicdn.com/4909b6ca3f823d8a94d8f46441919799e354f7e110cda-rQhKv5)
+    ![创建云主机](http://img.hb.aicdn.com/4909b6ca3f823d8a94d8f46441919799e354f7e110cda-rQhKv5)
 <center>创建云主机</center>
 
 3. 基础信息
-![创建云主机](http://img.hb.aicdn.com/4909b6ca3f823d8a94d8f46441919799e354f7e110cda-rQhKv5)
+    ![创建云主机](http://img.hb.aicdn.com/4909b6ca3f823d8a94d8f46441919799e354f7e110cda-rQhKv5)
 <center>创建云主机</center>
 
 ## 云主机功能
