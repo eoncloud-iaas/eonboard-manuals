@@ -14,11 +14,11 @@
     <center>创建云主机-选择镜像</center>
 
 2. 选择配置
-    ![创建云主机](http://img.hb.aicdn.com/57c7edf1d8f852ef2c438dd51dc92214c5622171bfe8-2Bpn08)
+    ![创建云主机](http://d.hiphotos.baidu.com/shitu/pic/item/b3fb43166d224f4ac33916bf0ff790529922d1fe.jpg)
     <center>创建云主机-选择配置</center>
 
 3. 基础信息  
-    ![创建云主机](http://img.hb.aicdn.com/c6de1db2effd3db4aa8e9cb2cb53feef5bccf6ebf0dd-esErUw_fw658)
+    ![创建云主机](http://f.hiphotos.baidu.com/shitu/pic/item/8694a4c27d1ed21b734c4b49ab6eddc450da3f90.jpg)
     <center>创建云主机-个人设置</center>
 
     选择完成后点击提交按钮。
@@ -26,3 +26,6 @@
 ## 云主机功能
 
 ### VNC登录
+
+### 绑定公网IP
+>**公网IP**为静态互联网IP地址。在易用云系统中，您可以把申请到的IP地址绑定私有网络中的主机或路由器中，并可以随时解绑，或者分配到别的主机，路由器上，从而更灵活的使用互联网。 
