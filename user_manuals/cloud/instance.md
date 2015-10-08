@@ -8,17 +8,17 @@
 
 
 1. 选择镜像
-    ![创建云主机](http://h.hiphotos.baidu.com/shitu/pic/item/11385343fbf2b2119c96ffe2cc8065380dd78ee5.jpg)
+    ![创建云主机](../images/button-launch-instance.png)
 
-    ![创建云主机](http://e.hiphotos.baidu.com/shitu/pic/item/b3b7d0a20cf431add77826954d36acaf2fdd98f7.jpg)
+    ![创建云主机](../images/step-image.png)
     <center>创建云主机-选择镜像</center>
 
 2. 选择配置
-    ![创建云主机](http://d.hiphotos.baidu.com/shitu/pic/item/b3fb43166d224f4ac33916bf0ff790529922d1fe.jpg)
+    ![创建云主机](../images/step-flavor.png)
     <center>创建云主机-选择配置</center>
 
 3. 基础信息  
-    ![创建云主机](http://f.hiphotos.baidu.com/shitu/pic/item/8694a4c27d1ed21b734c4b49ab6eddc450da3f90.jpg)
+    ![创建云主机](../images/step-profile.png)
     <center>创建云主机-个人设置</center>
 
     选择完成后点击提交按钮。
