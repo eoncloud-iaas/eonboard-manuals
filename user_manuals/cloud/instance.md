@@ -8,8 +8,7 @@
 
 
 1. 选择镜像
-    ![创建云主机](http://img.hb.aicdn.com/4909b6ca3f823d8a94d8f46441919799e354f7e110cda-rQhKv5)
-    <center>创建云主机</center>
+    ![创建云主机](http://h.hiphotos.baidu.com/shitu/pic/item/11385343fbf2b2119c96ffe2cc8065380dd78ee5.jpg
 
     ![创建云主机](http://img.hb.aicdn.com/2edad85873d12f2c758ab5a7a3f22d922920d797beec-VFT00b_fw658)
     <center>创建云主机-选择镜像</center>
