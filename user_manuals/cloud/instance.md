@@ -8,9 +8,9 @@
 
 
 1. 选择镜像
-    ![创建云主机](http://h.hiphotos.baidu.com/shitu/pic/item/11385343fbf2b2119c96ffe2cc8065380dd78ee5.jpg
+    ![创建云主机](http://h.hiphotos.baidu.com/shitu/pic/item/11385343fbf2b2119c96ffe2cc8065380dd78ee5.jpg)
 
-    ![创建云主机](http://img.hb.aicdn.com/2edad85873d12f2c758ab5a7a3f22d922920d797beec-VFT00b_fw658)
+    ![创建云主机](http://e.hiphotos.baidu.com/shitu/pic/item/b3b7d0a20cf431add77826954d36acaf2fdd98f7.jpg)
     <center>创建云主机-选择镜像</center>
 
 2. 选择配置
